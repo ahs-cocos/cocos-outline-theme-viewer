@@ -19,12 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontend-collective/react-sortable-tree-theme-file-explorer"
+    "url": "https://github.com/ahs-cocos/cocos-outline-theme-viewer.git\n"
   },
-  "homepage": "https://github.com/frontend-collective/react-sortable-tree-theme-file-explorer",
-  "bugs": "https://github.com/frontend-collective/react-sortable-tree-theme-file-explorer/issues",
   "authors": [
-    "Chris Fritz"
+    "Chris Fritz - Dany Dhondt"
   ],
   "license": "MIT",
   "jest": {
